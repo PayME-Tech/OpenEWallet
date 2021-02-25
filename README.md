@@ -1,4 +1,4 @@
-# Hướng dẫn tích hợp Ví điện tử mở cho ứng dụng di động
+# Hướng dẫn tích hợp Ví điện tử mở PayME cho ứng dụng di động
 Lấy thông tin tích hợp tại đây:
 - Môi trường Sandbox : https://sbx-business-v2.payme.vn
 - Môi trường Production : https://business-v2.payme.vn  
