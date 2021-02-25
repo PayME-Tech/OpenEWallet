@@ -2,6 +2,6 @@
 Tài liệu tích hợp SDK PayME OpenWallet.
 - [Backend](https://github.com/PayME-Tech/OpenEWallet/wiki/Backend)
 - [iOS](https://github.com/PayME-Tech/PayME-SDK-IOS/blob/master/README.md)
-- Android
+- [Android](https://github.com/PayME-Tech/PayME-SDK-Android-Example/blob/main/README.md)
 - React Native
 - Java script
