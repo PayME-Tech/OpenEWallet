@@ -7,7 +7,7 @@ Các bước:
 1. Tạo tài khoản trên các trang web trên và chờ approve từ PayME. ( Thoát trình duyệt vào lại )
 2. Tạo điểm giao dịch trong menu Quản lý điểm giao dịch.
 3. Tạo App trong Thông tin tích hợp -> Tích hợp SDK -> Thêm kết nối.
-
+4. Xem thông tin key kết nối tại :
 (Tài khoản được cung cấp khi bạn liên hệ đăng ký merchant với PayME)
 
 Tài liệu hướng dẫn tích hợp SDK PayME OpenWallet.
