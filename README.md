@@ -3,7 +3,7 @@ Lấy thông tin tích hợp tại đây:
 - Môi trường Sandbox : https://sbx-business-v2.payme.vn
 - Môi trường Production : https://business-v2.payme.vn  
 
-Các bước:
+Các bước tạo merchant và lấy thông số tích hợp :
 1. Tạo tài khoản trên các trang web trên và chờ approve từ PayME. ( Thoát trình duyệt vào lại )
 2. Tạo điểm giao dịch trong menu Quản lý điểm giao dịch.
 3. Tạo App trong Thông tin tích hợp -> Tích hợp SDK -> Thêm kết nối.
