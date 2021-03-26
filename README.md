@@ -15,4 +15,4 @@ Tài liệu hướng dẫn tích hợp SDK PayME OpenWallet.
 - [iOS](https://github.com/PayME-Tech/PayME-SDK-IOS/blob/master/README.md)
 - [Android](https://github.com/PayME-Tech/PayME-SDK-Android-Example/blob/main/README.md)
 - [React Native](https://www.npmjs.com/package/react-native-payme-sdk)
-- [Java script](https://github.com/PayME-Tech/PayME-SDK-JS-Example/blob/main/README.md)
+- [Web Java script](https://github.com/PayME-Tech/PayME-SDK-JS-Example/blob/main/README.md)
