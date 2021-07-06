@@ -1,7 +1,6 @@
 # Hướng dẫn tích hợp Ví điện tử mở PayME
-Lấy thông tin tích hợp tại đây:
-- Môi trường Sandbox : https://sbx-business-v2.payme.vn
-- Môi trường Production : https://business-v2.payme.vn  
+Lấy thông tin tích hợp:
+- Đối tác sẽ được cung cấp thông tin tích hợp sau khi ký hợp đồng.
 
 Các bước tạo merchant và lấy thông số tích hợp :
 1. Tạo tài khoản trên các trang web trên và chờ approve từ PayME. ( Thoát trình duyệt vào lại )
