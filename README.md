@@ -10,7 +10,7 @@ Các bước tạo merchant và lấy thông số tích hợp :
 (Tài khoản được cung cấp khi bạn liên hệ đăng ký merchant với PayME)
 
 Ví dụ app demo tích hợp SDK :
-- ![Demo Flow](https://github.com/PayME-Tech/OpenEWallet/blob/main/Demo%20Intergrating%20Flow.png)
+- ![2021-08-30 17 18 32](https://user-images.githubusercontent.com/77372872/131334513-56d035ee-4cfc-405a-aeb7-5dfb68ef992a.jpg)
 
 Luồng tích hợp :
 - ![Activity Flow](https://github.com/PayME-Tech/OpenEWallet/blob/main/FlowServer.png)
